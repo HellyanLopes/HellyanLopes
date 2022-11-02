@@ -1,6 +1,6 @@
 ## BEM VINDOS !!
  
- Me chamo Hellyan Fernando, faço parte dos grupos de aluno do DEVQUEST e quero me desenvolver na área de programação.
+ Me chamo Hellyan, faço parte dos grupos de aluno do DEVQUEST e quero me desenvolver na área de programação.
  
 <div align="center">
   <a href="https://github.com/HellyanLopes">
