@@ -1,9 +1,11 @@
 ## BEM VINDOS !!
-
+ 
+ Me chamo Hellyan Fernando, faço parte dos grupos de aluno do DEVQUEST e quero me desenvolver na área de programação.
+ 
 <div align="center">
   <a href="https://github.com/HellyanLopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellyanLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellyanLopes&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellyanLopes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellyanLopes&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +15,7 @@
  
  <br>
  
-  ### Mais coisas sobre mim, segue abaixo com algumas redes sociais!
+  ### Minhas redes sociais!
  
 <div>
     <a href="https://wa.me/5519983268725" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
