@@ -2,12 +2,12 @@
  
  Me chamo Hellyan Fernando, faço parte dos grupos de aluno do DEVQUEST e quero me desenvolver na área de programação.
  
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/HellyanLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellyanLopes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellyanLopes&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
