@@ -1,6 +1,6 @@
-## BEM VINDOS !!
+## WELCOMEEE!!
  
- Me chamo Hellyan, faço parte dos grupos de aluno do DEVQUEST e quero me desenvolver na área de programação.
+ Me chamo Hellyan, sou um novato me aventurando nesse mundo que é a programação, querendo aprender de tudo e o mais rapido possivel kkkkkk mas nem tudo são flores e aqui é meu espaço de progresso, divirta-se rindo dos erros e acertos e até mais!!
  
 <div align="center">
   <a href="https://github.com/HellyanLopes">
